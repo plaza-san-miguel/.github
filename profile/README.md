@@ -12,6 +12,7 @@ Main projects:
 
 
 **Infrastructure**:
+
 ⚙️ Zero downtime for high user availability.
 
 ⚙️ AI workflow integrations.
